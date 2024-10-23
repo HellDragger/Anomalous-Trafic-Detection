@@ -1,6 +1,3 @@
-Here's the README file content formatted for your GitHub repository:
-
-```markdown
 # Anomaly Detection in Network Traffic
 
 This repository contains Jupyter notebooks for detecting anomalies in network traffic using Recurrent Neural Networks (RNN) and Deep Q-Learning (DQL). The notebooks are designed to provide practical implementations of these machine learning techniques to analyze and detect anomalies in the NF-UNSW-NB15 dataset.
@@ -24,7 +21,7 @@ To run the notebooks, you will need the following software:
 - Necessary libraries (you can install them using `pip`):
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras gym
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras
 ```
 
 ## Getting Started
@@ -80,7 +77,3 @@ This project is licensed under the Apache License. See the [LICENSE](LICENSE) fi
 ## Acknowledgments
 
 - [The University of Queensland, Australia](https://staff.itee.uq.edu.au/marius/NIDS_datasets/#RA1) for providing the NF-UNSW-NB15 dataset.
-- Open-source libraries used in this project for their contributions to the machine learning community.
-```
-
-Feel free to copy and paste this content into a `README.md` file in your GitHub repository, and make any adjustments as needed! Let me know if you need further assistance.
