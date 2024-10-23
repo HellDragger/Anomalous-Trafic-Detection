@@ -23,6 +23,10 @@ To run the notebooks, you will need the following software:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras
 ```
+or by using below command
+```bash
+pip install -r reqirements.txt
+```
 
 ## Getting Started
 
